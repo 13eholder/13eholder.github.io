@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yourdomain.com/sitemap.xml
-Sitemap: https://yourdomain.com/baidusitemap.xml
+Sitemap: https://github.com/13eholder/13eholder.github.io/sitemap.xml
+Sitemap: https://github.com/13eholder/13eholder.github.io/baidusitemap.xml
